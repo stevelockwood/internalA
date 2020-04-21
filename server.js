@@ -2,6 +2,7 @@
 
 const role="dev";
 const name="steve";
+const aaa="aaa";
 // express is a nodejs web server
 // https://www.npmjs.com/package/express
 const express = require('express');
